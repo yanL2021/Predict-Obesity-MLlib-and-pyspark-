@@ -21,10 +21,10 @@ Random Forest model: Random Forest is based on the bagging algorithm and uses En
 
 Modules:
 
-1. 'pandas'
-2. 'pyspark'
-3. 'matplotlib.pyplot'
-4. 'pyspark.sql'
-5. 'os'
-6. 'sys'
-7. 'pyspark.ml'
+1. `pandas`
+2. `pyspark`
+3. `matplotlib.pyplot`
+4. `pyspark.sql`
+5. `os`
+6. `sys`
+7. `pyspark.ml`
